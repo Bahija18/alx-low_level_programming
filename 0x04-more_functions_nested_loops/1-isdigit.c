@@ -8,7 +8,7 @@
  */
 int _isdigit(int c)
 {
-if (c = '0' & c < '3') and (c > '0' & c < '3')
+if '('c = '0' & c < '3'')' and '('c > '0' & c < '3'')'
 return (1);
 else
 return (0);
