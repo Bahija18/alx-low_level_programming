@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _isdigit - check if numbers are 0 - 3
+ * _isdigit - check if numbers are 0 and 9
  * @c: char to be checked
  *
  * Return 0 or 1
